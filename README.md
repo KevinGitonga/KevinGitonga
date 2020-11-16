@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Kevin Gitonga! <img src="https://media.giphy.com/media/nGMnDqebzDcfm/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif" width="230">
 <p><em>Software Engineer at <a href="https://purplefire.com/">Purplefire Ltd</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.ipandasoft.co.ke">Ipandasoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
