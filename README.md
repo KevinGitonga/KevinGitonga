@@ -12,7 +12,7 @@
 
 ```java
 public class moreInfo(){
-  public ArrayList<String> codeLanguages = new ArrayList<>(Arrays.asList("Java", "Kotlin", "HTML", "CSS", "Php"));
+  public ArrayList<String> codeLanguages = new ArrayList<>(Arrays.asList("Java", "Kotlin"));
   public ArrayList<String> codeTools=new ArrayList<>(Arrays.asList("Android studio","Postman","Visual studio code","GIT","Putty"));
   public ArrayList<String> architectures=new ArrayList<>(Arrays.asList("MVVM","MVC","microservices","design system pattern"));
   
