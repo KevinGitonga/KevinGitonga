@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Kevin Gitonga! <img src="https://media.giphy.com/media/nGMnDqebzDcfm/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="230">
-<p><em>Software Engineer at <a href="https://purplefire.com/">Purplefire Ltd</a><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="30"></br>Developer Consultant at <a href="https://www.ipandasoft.co.ke">Ipandasoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer Consultant at <a href="https://purplefire.com/">Purplefire Ltd</a><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="30"></br>Developer Consultant at <a href="https://www.ipandasoft.co.ke">Ipandasoft</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: Kevin Gitonga](https://img.shields.io/twitter/follow/Kevgitonga4199?style=social)](https://twitter.com/Kevgitonga4199)
