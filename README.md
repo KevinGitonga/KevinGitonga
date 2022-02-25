@@ -1,5 +1,6 @@
 <h2> Hi there, I'm Kevin Gitonga! <img src="https://media.giphy.com/media/nGMnDqebzDcfm/source.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="230">
+<p><em>Founder at <a href="https://soccerjackpottips.com/">Soccer Jackpot Tips</a><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/source.gif" width="30">
 
 [![Twitter: Kevin Gitonga](https://img.shields.io/twitter/follow/Kevgitonga4199?style=social)](https://twitter.com/Kevgitonga4199)
 [![Linkedin: Kevin Gitonga](https://img.shields.io/badge/-KevinGitonga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-gitonga-097860123/)](https://www.linkedin.com/in/kevin-gitonga-097860123/)
